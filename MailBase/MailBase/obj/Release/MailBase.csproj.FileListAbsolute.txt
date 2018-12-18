@@ -1,0 +1,15 @@
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\MailBase.exe.config
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\MailBase.exe
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\MailBase.pdb
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\itextsharp.dll
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\System.Data.SQLite.dll
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\itextsharp.xml
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\bin\Release\System.Data.SQLite.xml
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.MailingDB.resources
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.Properties.Resources.resources
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.csproj.GenerateResource.cache
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.csproj.CoreCompileInputs.cache
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.csproj.CopyComplete
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.exe
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.pdb
+C:\Users\kkowa\Desktop\studbaza\Sem6\AI\Projekt\MailBase\MailBase\obj\Release\MailBase.csprojResolveAssemblyReference.cache
